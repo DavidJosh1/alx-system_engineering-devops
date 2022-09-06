@@ -1,1 +1,1 @@
-write a script that display Best School ending a new line
+ write a shell script that creates a file anemd best school and 
