@@ -1,1 +1,1 @@
-Display content of /etc/passwd file
+it write script that prints "Hello, World". 
