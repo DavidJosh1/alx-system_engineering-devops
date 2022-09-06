@@ -1,1 +1,1 @@
-write a scripte that displays a confused smiley
+My second commit to print smiley
