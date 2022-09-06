@@ -1,1 +1,1 @@
-Write a shell script that creates a file named exactly containingBest school
+write a script that display Best School ending a new line
