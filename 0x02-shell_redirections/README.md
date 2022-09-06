@@ -1,1 +1,1 @@
-My second commit to print smiley
+Display the content of /etc/passwd file 
