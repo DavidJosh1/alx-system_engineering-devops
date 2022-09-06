@@ -1,2 +1,1 @@
-My shell I/O redirections
-write a script that prints a smiley
+write a scripte that displays a confused smiley
