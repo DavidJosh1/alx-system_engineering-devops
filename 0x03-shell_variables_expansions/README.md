@@ -1,1 +1,1 @@
-write 10-love_exponent_breath script
+A script that converts a number from base 2 to base 10 
