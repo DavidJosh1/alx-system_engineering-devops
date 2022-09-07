@@ -1,1 +1,1 @@
-Write a script to print the result pwoer divided by divide
+write 10-love_exponent_breath script
